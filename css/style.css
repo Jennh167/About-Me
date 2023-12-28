@@ -1,0 +1,16 @@
+body {
+  background-color: lightgoldenrodyellow; font-size: 3vw; padding-inline: 10px;
+}
+
+h1 {
+  font-size: 5vw; font-style: italic; text-align: center; padding-block: 50px;
+}
+
+p {
+  text-align: left; text-indent: 45px; padding-block: 10px
+  ;
+}
+
+footer {
+text-align: center; font-size: 5vw; font-style: italic; position: absolute; bottom: 0; left:0 z-index: 10;
+}

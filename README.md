@@ -13,9 +13,9 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 * [submission PR](http://xyz.com)
 * Any Links you used as reference
 
-### Lighthouse Accessibility Report Score
+### Lighthouse Accessibility Report Score - 100%
 
-* Provide a screenshot of your score after running a Lighthouse Accessibility report.
+* (![screenshot-lab2] (/Users/jenniferhoskinson/projects/courses/code-102/About-Me/img/Screenshot 2023-12-27 at 6.50.40 PM.png))
 
 ### Reflections and Comments
 
