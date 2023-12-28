@@ -15,7 +15,7 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Lighthouse Accessibility Report Score - 100%
 
-<imgsrc="/Users/jenniferhoskinson/projects/courses/code-102/About-Me/img/lab2-screenshot.png"alt="lab2-screenshot"
+<imgsrc="<https://github.com/Jennh167/About-Me/blob/main/img/lab2-screenshot.png"alt="lab2-screenshot">
 
 ### Reflections and Comments
 
